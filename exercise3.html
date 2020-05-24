@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JS Exercise</title>
+    <style> 
+    body {
+        background-color: rgb(105,105,173);
+        color: rgb(255,255,255);
+        font: bold 20pt Arial;
+    }
+
+    h1 {
+        color: rgb(40, 40, 80);
+    }
+    </style>
+</head>
+
+<body>
+    <h1>My first JS Exercise</h1>
+    <p>Creating my first script</p>
+    
+    <script>
+        var n1 = Number(window.prompt('Write down a number')) // converting a string to number
+        var n2 = Number(window.prompt('Write down another number')) // converting a string to number
+        // parseFloat (2.5, 7.35, 9.86...) and parseInt (4, 22, 80, 120...)
+        var s = n1 + n2
+        window.alert(`The addition of ${n1} and ${n2} is equal to ${s}`) // you can also use window.alert('The addition of those numbers is equal to ' + s)
+    </script>
+
+</body>
+</html>
