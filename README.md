@@ -1,2 +1,2 @@
-# java-script-exercise
+# JavaScript Exercise
 First steps with JavaScript
