@@ -3,10 +3,14 @@ First steps with JavaScript:
 
 - Arrow functions;
 - Classes;
+- Complex Data Structures;
 - Desestruct;
 - Functions;
-- If, else;
+- If/else;
 - Match;
-- Operatores;
+- Operators;
+- Search;
 - Spread;
-- Template string;
+- Switch;
+- Template strings;
+- &&;
